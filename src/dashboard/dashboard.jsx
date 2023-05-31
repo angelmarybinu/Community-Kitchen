@@ -81,7 +81,7 @@ export default function Dashboard() {
                   <br />
                   <br />
 
-                  <label>Address:</label> <br />
+                  <label>Ingredients:</label> <br />
                   <input
                     id="address"
                     name="address"
@@ -89,7 +89,7 @@ export default function Dashboard() {
                    
                   />
                   <br />
-                  <label>Facilities:</label> <br />
+                  <label>Method:</label> <br />
                   <input
                     type="text"
                     id="facilities"
@@ -97,7 +97,7 @@ export default function Dashboard() {
                     
                   />
                   <br />
-                  <label>Rent:</label> <br />
+                  <label>Precautions:</label> <br />
                   <input
                     type="number"
                     id="rent"
